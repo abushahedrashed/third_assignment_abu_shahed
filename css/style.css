@@ -1,0 +1,180 @@
+*{margin: 0; padding: 0}
+body{
+	background-color: #03011d;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.cotainer{
+	width: 1400px;
+	margin: 0 auto;
+	background: linear-gradient(to bottom, lightblue, blue);
+	overflow: hidden;
+}
+.header{
+	width: 100%;
+	text-align: center;
+	background-color: ;
+
+}
+.hd{
+	font-size: 75px;
+	letter-spacing: 5px;
+	color: darkblue;
+	font-weight: bolder;
+}
+.reg{
+	font-size: 25px;
+	letter-spacing: 3px;
+}
+.dis{
+	font-size: 12px;
+	margin: 15px 0px;
+	letter-spacing: 2px;
+}
+.content{
+	width: 100%
+}
+.left{
+	width: 45%;
+	overflow: hidden;
+	float: left;
+	
+}
+.nev{
+	width: 88%;
+    background-color: #D5DBDB;
+    border-radius: 20px;
+    height: 500px;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin-top: 60px;
+    margin-left: 49px;
+}
+.login{
+	width: 100%;
+	background-color: #B2BABB;
+	height: 100%;
+	padding-top: 50px;
+}
+
+.login_info{
+	width: 88%;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 18px 0px 18px 17px;
+    border: 1px solid gray;
+}
+.login_but{
+	width: 90%;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-top: 35px;
+    padding: 14px 0px 14px 17px;
+    background: linear-gradient(to bottom, lightblue, #1dada3, lightblue);
+    
+}
+
+.nev h2{
+	padding: 20px 10px;
+}
+.nev p{
+	padding-left: 10px;
+	padding-bottom: 20px;
+}
+.links{
+	margin-top: 35px;
+	margin-bottom: 80px;
+	margin-left: 50px;
+}
+.links p{
+	text-align: center;
+	color: lightblue;
+}
+.links ul{
+	margin: 20px auto;
+	
+}
+.links ul li{
+	float: left; ;
+	list-style-type: none;
+	margin-left: 65px;
+
+	
+}
+.links ul li a{
+	text-decoration: none;
+	padding: 5px 5px 5px 0px;
+	display: block;
+	
+	margin-left: 10px;
+	color: white;
+	font-size: 16px;
+}
+#fb{
+	background-color: #012879;
+	border-radius: 7px;
+}
+#tw{
+	background-color: #0aa3a9;
+	border-radius: 7px;
+}
+#ggl{
+	background-color: #bb4300;
+	border-radius: 7px;
+}
+/* left*/
+.main{
+	width: 55%;
+	background-color: ;
+	float: left;
+	margin-bottom: 50px;
+}
+.sign_up{
+	width: 88%;
+    background-color: #D5DBDB;
+    border-radius: 20px;
+    height: 750px;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin-top: 60px;
+    margin-left: 49px;
+}
+.sign_up h2{
+	padding: 20px 10px;
+}
+.sign_up p{
+	padding-left: 10px;
+	padding-bottom: 20px;
+}
+.registration{
+	width: 100%;
+	background-color: #B2BABB;
+	height: 100%;
+	padding-top: 35px;
+}
+
+.registration_info{
+	width: 88%;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 18px 0px 18px 17px;
+    border: 1px solid gray;
+}
+.registration_about{
+	width: 88%;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 17px 0px 120px 17px;
+    border: 1px solid gray;
+}
+.signup_butt{
+	width: 90%;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-top: 35px;
+    padding: 14px 0px 14px 17px;
+    background: linear-gradient(to bottom, lightblue, #1dada3, lightblue);
+    
+}
